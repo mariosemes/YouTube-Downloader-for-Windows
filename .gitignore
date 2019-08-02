@@ -1,2 +1,5 @@
 # Don't track content of these folders
-exe/
+exe/ffmpeg.exe
+exe/ffplay.exe
+exe/ffprobe.exe
+exe/youtube-dl.exe

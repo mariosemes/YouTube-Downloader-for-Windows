@@ -1,0 +1,9 @@
+Download this tools:
+
+YouTube-dl from:
+https://github.com/ytdl-org/youtube-dl/releases
+
+ffmpeg from:
+https://ffmpeg.org/download.html
+
+Both youtube-dl.exe and ffmpeg.exe copy into this folder.
